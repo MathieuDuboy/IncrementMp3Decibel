@@ -10,7 +10,7 @@ Ce projet permet d'augmenter progressivement le volume de fichiers MP3 en utilis
 2. **Importer le Notebook**  
    - Cliquez sur **"Ouvrir le Notebook"**  
    - Sélectionnez **"Importer"**  
-   - Choisissez le fichier **`increment_db.ipynb`** que vous aurez au préable [téléchargé ici(https://github.com/MathieuDuboy/IncrementMp3Decibel/blob/main/increment_db.ipynb)]
+   - Choisissez le fichier **`increment_db.ipynb`** que vous aurez au préable [téléchargé ici](https://github.com/MathieuDuboy/IncrementMp3Decibel/blob/main/increment_db.ipynb)
 
 3. **Exécuter le script**  
    - Suivez les instructions et exécutez chaque bloc de code  
